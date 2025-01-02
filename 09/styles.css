@@ -35,7 +35,6 @@
 /* První sloupec */
 .container>a:nth-child(5n+1) {
     background-color: #a715c9;
-    /* První sloupec */
 }
 
 .container>a:nth-child(5n+1)>h2 {
